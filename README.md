@@ -2,7 +2,7 @@
 
 A1: PROPOSAL OF QUESTION:
 
-What items do customers often buy together, and how can this information help improve store layout and promotions?
+"What items do customers often buy together, and how can this information help improve store layout and promotions?"
 
 A2: DEFINED GOAL:
 
